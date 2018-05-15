@@ -1,0 +1,8 @@
+$enable-flex: true;
+$enable-rounded: true;
+$enable-shadows: true;
+$enable-gradients: true;
+$enable-transitions: true;
+
+@import 'bootstrap/scss/bootstrap.scss';
+@import '_App.scss';
